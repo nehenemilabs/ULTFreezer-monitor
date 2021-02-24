@@ -5,4 +5,4 @@
 )
 * 1 Thermocouple Connector - PCC-SMP-K [PRT-13612](https://www.sparkfun.com/products/13612)
 * 1 DC Barrel Power Jack/Connector [PRT-00119](https://www.sparkfun.com/products/119)
-
+* 1 Thermocouple K-Type 3x15mmm Cylindrical sensor 1M length
