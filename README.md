@@ -1,4 +1,7 @@
 # Ultra Low Temperature Freezer Monitor
+
+An WiFi enabled sensor monitor for Ultra Low Temperature Freezers (ULTs)
+
 ## Parts
 * 1 Amica NodeMCU
 * 1 SparkFun Thermocouple Breakout - MAX31855K [SEN-13266](https://www.sparkfun.com/products/13266
