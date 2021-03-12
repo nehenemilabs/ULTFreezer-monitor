@@ -1,6 +1,9 @@
+
 # Ultra Low Temperature Freezer Monitor
 
-An WiFi enabled sensor monitor for Ultra Low Temperature Freezers (ULTs)
+![PCB](img/ULTFreezer-monitor-sparkfun_pcb.png)
+
+An quick and cheap WiFi enabled sensor monitor for Ultra Low Temperature Freezers (ULTs) or any -80C  
 
 ## Parts
 * 1 Amica NodeMCU
