@@ -5,7 +5,7 @@
 
 ![LICENSES](img/LICENCES.svg)
 
-![OSHWAMX00027](img/OSHWA.png)
+![OSHWAMX00027](img/OSHWA.png | width=100)
 
 A quick and cheap WiFi enabled sensor monitor for Ultra Low Temperature Freezers (ULTs) or any -80C  
 
