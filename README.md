@@ -4,8 +4,9 @@
 ![PCB](img/ULTFreezer-monitor-sparkfun_pcb.png)
 
 ![LICENSES](img/LICENCES.svg)
-
-![OSHWAMX00027](img/OSHWA.png)
+<a href='https://certification.oshwa.org/mx000027.html' target='blank_'>
+<img src='img/OSHWA.png' title='OSHWA Certification' width='15%' height='15%'>
+</a>
 
 A quick and cheap WiFi enabled sensor monitor for Ultra Low Temperature Freezers (ULTs) or any -80C  
 
